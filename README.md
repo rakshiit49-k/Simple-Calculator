@@ -1,6 +1,6 @@
 # Simple Calculator - Python Tkinter
 This is a simple GUI-based calculator built using Python and the Tkinter library.
-It performs basic arithmetic operations like:
+It performs basic arithmetic operations like :
 - Addition +
 - Subtraction -
 - Multiplication *
